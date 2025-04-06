@@ -1,1 +1,1 @@
-Credit card fraud prediction
+I’m excited to share a recent project where I developed a machine learning model to detect credit card fraud. This project focuses on identifying fraudulent transactions using historical transaction data, with the goal of improving security and reducing financial losses for both consumers and financial institutions.
